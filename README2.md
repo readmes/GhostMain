@@ -1,14 +1,14 @@
-# WHAT AND WHY: Uno for Ghost
+# Uno for Ghost [![what-why](https://cs.adelaide.edu.au/~christoph/badges/content-what-why-brightgreen.svg)]()
 
 
 Uno for Ghost is the result of my first 'mini-project' of 2014. The theme features a minimal, responsive design with a cover page, disqus comment integration, foundation icons and various colour options.
 
 
-## HOW: Demo
+## Demo [![how](https://cs.adelaide.edu.au/~christoph/badges/content-how-green.svg)]()
 There's a demo of the theme running on my personal website, [daleanthony.com](http://daleanthony.com)
 
 
-## WHAT AND WHY: Features
+## Features [![what-why](https://cs.adelaide.edu.au/~christoph/badges/content-what-why-brightgreen.svg)]()
 
 **Cover page**
 The landing page for Uno is a full screen 'cover' featuring your avatar, blog title, mini-bio and cover image.
@@ -34,14 +34,14 @@ Ghost is still a work in progress with many features not yet implemented, as Gho
 **1 theme, 5 colour options**
 Uno includes 5 different colour options for you to chose from.
 
-## WHO AND REFERENCES: FAQs
+## FAQs [![who](https://cs.adelaide.edu.au/~christoph/badges/content-who-yellow.svg)]() [![references](https://cs.adelaide.edu.au/~christoph/badges/content-references-orange.svg)]()
 
 Some common questions are answered on the [Uno FAQ page](http://daleanthony.com/uno-faq/)
 
-## WHO: Contact
+## Contact [![who](https://cs.adelaide.edu.au/~christoph/badges/content-who-yellow.svg)]()
 
 The best way to contact me is by [dropping me an email](dale@daleanthony.com) or my messaging me on [Twitter](https://twitter.com/daleanthony)
 
-## WHO: Licence
+## Licence [![who](https://cs.adelaide.edu.au/~christoph/badges/content-who-yellow.svg)]()
 
 [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
